@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Juan Carlos Niño
+Junior Developer
+
+### Technologies
+- Android
+- Firebase
+- Java
+- Kotlin
+- Angular
 
 <!--
 **Utsubeshi/Utsubeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
