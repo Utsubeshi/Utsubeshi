@@ -7,6 +7,8 @@ Junior Developer
 - Java
 - Kotlin
 - Angular
+- Spring
+- SQL
 
 <!--
 **Utsubeshi/Utsubeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
