@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Juan Carlos Niño
-Junior Developer
+Developer
 
 ### Technologies
+- Spring
+- Azure
 - Android
 - Firebase
 - Java
 - Kotlin
 - Angular
-- Spring
 - SQL
 
 ### Other skills
