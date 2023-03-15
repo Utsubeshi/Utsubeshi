@@ -2,7 +2,7 @@
 Developer
 
 ### Technologies
-- Spring
+- Spring 
 - Azure
 - Android
 - Firebase
@@ -10,6 +10,8 @@ Developer
 - Kotlin
 - Angular
 - SQL
+- Docker
+- Kubernetes
 
 ### Other skills
 - UI Design
